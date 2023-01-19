@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @samz9n
-- 👀 I’m currently interested in Front end web development
 - 🌱 I’m currently studying ICT and digital services in Haaga-Helia. 
-- 💞️ I’m looking to collaborate on very simple projects to learn more about programming.
 - 📫 How to reach me : samuel.langhoff@myy.haaga-helia.fi
 
 <!---
